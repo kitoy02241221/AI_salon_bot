@@ -10,8 +10,6 @@ from telegram.ext import (
     filters
 )
 
-niga = 22
-
 # Загружаем переменные окружения
 load_dotenv()
 
